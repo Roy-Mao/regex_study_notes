@@ -13,8 +13,7 @@ Regex is essentially variations of the following:
 ## Most simple regex
 
   1. Nick => Nick
-
-  2. \[ \] is called a character class
+  2. [] is called a character class
 
     * [Nn]ick => **Nick, nick**
 
